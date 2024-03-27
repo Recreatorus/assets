@@ -1,0 +1,1756 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.147445101321628,
+          38.709880374345325
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Rua de S. Paulo 234, 1200-109 Lisboa, Португалия",
+        "name": "Лиссабон",
+        "description": "вино и рыба",
+        "imageUrl": "./img/lisboa.jpg",
+        "link": "http://www.carris.pt/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.576321557072618,
+          36.59162444656168
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Finca la Carraca, Ctra. Costa del Sol, s/n, 29639 Benalmádena, Málaga, Испания",
+        "name": "Памятник Коломаресу",
+        "description": "памятник с живописным видом, напоминающий замок и посвященный Колумбу",
+        "imageUrl": "./img/spain-castillo-de-colomares.jpg",
+        "link": "http://www.castillomonumentocolomares.com/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.166077392900804,
+          36.740572000594
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "C. Tenorio, 20, 29400 Ronda, Málaga, Испания",
+        "name": "Mirador Puente Nuevo de Ronda",
+        "description": "живописное ущелье, через которое перекинут арочный мост XVIII века",
+        "imageUrl": "./img/ronda.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.256466622415382,
+          35.17178530720251
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "name": "Chefchaouen Medina (Шавен)",
+        "description": "классный город, построенный на месте небольшого берберского поселения, большинство стен зданий в нём окрашены в различные оттенки синего и голубого.",
+        "imageUrl": "./img/chefchaouen.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.600161683158863,
+          30.403447585797725
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Chemin des dunes، Agadir 80000, Марокко",
+        "name": "Amadil Beach Hotel",
+        "description": "",
+        "imageUrl": "./img/agadir.jpg",
+        "link": "https://atlashotelscollection.com/fr/maroc/hotel/amadil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27920447859724,
+          23.13830276583127
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Hotel Gran Caribe Sun Beach, 17 Avenida 1ra, Varadero, Куба",
+        "name": "Varadero",
+        "description": "Полуостров Икакос, на котором расположен курорт, простирается на 20 км в океан и имеет ширину всего в 1,2 км в самой широкой его части. Мыс Икакос, в северной оконечности полуострова, является самой северной точкой Кубы.Первое упоминание Варадеро зафиксировано в 1555 году. Курорт зародился в 1872 году, бурное развитие началось в начале 1930-х годов",
+        "imageUrl": "./img/cuba-varadero.jpg",
+        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D0%B0%D0%B4%D0%B5%D1%80%D0%BE"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35892575562397,
+          23.145871027520826
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Havana, Cuba",
+        "name": "Malecon, Havana, Cuba",
+        "description": "официальное название Авенида де Масео (исп. Avenida de Maceo), представляет собой широкую эспланаду, проезжую часть и дамбу, которая простирается на 8 км вдоль побережья Гаваны. Строительство Малекона началось в 1901 году, во время временного военного правления США",
+        "imageUrl": "./img/cuba-havana-1.jpg",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B5%D0%BA%D0%BE%D0%BD"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.356995228418,
+          23.150878268403265
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Castillo De Los Tres Reyes Del Morro, Havana, Cuba",
+        "name": "Castillo De Los Tres Reyes Del Morro",
+        "description": "Колониальная крепость (форт), которая защищает вход в бухту Гаваны. Построена по проекту итальянского инженера Баттисты Антонелли. Возведен испанцами в 1589 году, чтобы отражать британские нападения на Гавану.",
+        "imageUrl": "./img/cuba-havana.jpg",
+        "link": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D1%8C-%D0%9C%D0%BE%D1%80%D1%80%D0%BE_(%D0%93%D0%B0%D0%B2%D0%B0%D0%BD%D0%B0)"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35859608019055,
+          23.13566351091578
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Capitolio Nacional de Cuba, La Habana, Куба",
+        "name": "Capitolio Nacional de Cuba",
+        "description": "Построенное в 1929 году элегантное муниципальное здание с большим куполом и центральной галереей",
+        "imageUrl": "./img/cuba-havana-4.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38542083970012,
+          23.123255696329885
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Calle Paseo y Ave. Independencia. Plaza de la Revolución. La Habana, Av. Paseo, La Habana, Куба",
+        "name": "Мемориал Хосе Марти",
+        "description": "109-метровая башня, разработанная группой архитекторов во главе с Луисом Энрике Варелой, имеет вид пятиконечной звезды, заключенной в серый мрамор. Строительство башни началось в 1953 году к 100-летию со дня рождения Хосе Марти. Памятник был окончательно завершен в 1958 году в последние дни диктатуры Батисты.",
+        "imageUrl": "./img/cuba-havana-3.jpg",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB_%D0%A5%D0%BE%D1%81%D0%B5_%D0%9C%D0%B0%D1%80%D1%82%D0%B8"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34437016067727,
+          23.144169788425913
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "La Habana, Куба",
+        "name": "Иисус Христос, Гавана",
+        "description": "Гаванский Христос — крупная статуя Иисуса Христа в Гаване, Куба, расположенная на холме с видом на бухту Гаваны. Автором является кубинский архитектор Хильма Мадера. Статуя высечена из белого каррарского мрамора. была открыта 24 декабря 1958 года. Её возвели всего за 15 дней до того, как 8 января Фидель Кастро вступил в Гавану",
+        "imageUrl": "./img/cuba-havana-2.jpg",
+        "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B2%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34514263696978,
+          23.14454464159021
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "La Cabaña de Che Guevara, La Habana, Куба",
+        "name": "La Cabaña de Che Guevara",
+        "description": "расположен в первом доме, где жил Че Гевара в 1959 году",
+        "imageUrl": "./img/cuba-havana-5.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38150821761089,
+          23.143618054783737
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Calle 21 y O, Vedado, Plaza La Habana, 10400, Куба",
+        "name": "Hotel Nacional de Cuba",
+        "description": "историческая гостиница, открытая в декабре 1930 года. Расположена в районе Ведадо, на холме Таганана, откуда открывается великолепный вид на Малекон, Гаванскую гавань и город",
+        "imageUrl": "./img/cuba-havana-nacional.jpg",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%B5%D0%BB%D1%8C_%D0%9D%D0%B0%D1%81%D1%8C%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C_%D0%B4%D0%B5_%D0%9A%D1%83%D0%B1%D0%B0"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35720009858304,
+          23.13760310194624
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Obispo, La Habana, Куба, La Habana, Куба",
+        "name": "Bar Floridita",
+        "description": "Имя кубинского бара «Эль-Флоридита» в Гаване навсегда связано с легендой американской литературы Эрнестом Хемингуэем. Однажды он зашел сюда, выпил коктейль дайкири и настолько впечатлился, что стал приходить каждое утро. Ровно в 10 часов он появлялся в дверях, садился на одно и то же место и просил сделать ему «тот самый лучший в мире дайкири»",
+        "imageUrl": "./img/cuba-havana-floridita.jpg",
+        "link": "https://tonkosti.ru/%D0%91%D0%B0%D1%80_%C2%AB%D0%AD%D0%BB%D1%8C-%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B8%D1%82%D0%B0%C2%BB"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.570591,
+          21.606431
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Playa Sirena, Cayo Largo, Cuba",
+        "name": "Playa Sirena, Cayo Largo, Cuba",
+        "description": "Cayo Largo del Sur, остров в архипелаге Лос-Канарреос в Карибском море у юго-западного побережья Кубы. Площадь — 37,5 км. В 1494 году Ларго-дель-Сур в ходе своей второй экспедиции посетил Христофор Колумб. Позднее здесь также останавливался Фрэнсис Дрейк — пираты долгое время использовали остров как свою базу.",
+        "imageUrl": "./img/cuba-cayo-largo.jpg",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%80%D0%B3%D0%BE-%D0%B4%D0%B5%D0%BB%D1%8C-%D0%A1%D1%83%D1%80"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.56556674433286,
+          21.640354821817535
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Cayo Iguana, Cuba",
+        "name": "Кайо Игуана",
+        "description": "остров полон игуан",
+        "imageUrl": "./img/cuba-cayo-iguana.jpg",
+        "link": "https://www.visitarcuba.ru/%D0%9A%D0%B0%D0%B9%D0%BE-%D0%98%D0%B3%D1%83%D0%B0%D0%BD%D0%B0"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68025161651335,
+          23.132420516603986
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Circuito Nte., Puerto Escondido, Куба",
+        "name": "Мост Бакунайягуа",
+        "description": "Его строительство началось в 1957 году, и он был открыт в 1959 году Фиделем Кастро. В общей сложности мост имеет высоту 103 метра, длину 314 и ширину 17 метров. Примечательно, что мост подпирает 41 колонна, на момент постройки эти колонны были самыми тонкими в мире. Работы по строительству моста были начаты еще в 1957 году и отличались колоссальной сложностью не столько из-за большой протяжённости моста, сколько из-за необходимости перекидывать мост через две высоченные вершины.",
+        "imageUrl": "./img/cuba-bridge.jpg",
+        "link": "https://www.tursvodka.ru/countries/cuba/places/puentede_bacunayagua/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.59955992486402,
+          18.44849368936265
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Calle Duarte, Boca Chica 15700, Доминиканская Республика",
+        "name": "Be Live Experience Hamaca Suites",
+        "description": "",
+        "imageUrl": "./img/boca-chica.jpg",
+        "link": "https://www.belivehotels.com/es/hoteles-santo-domingo/be-live-experience-hamaca-suites/?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_content=DBLHS"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.25152256178193,
+          37.08775352771178
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Av. Infante Dom Henrique 83, 8200-916 Albufeira, Португалия",
+        "name": "Albufeira",
+        "description": "курорт с песчаными пляжами и активной ночной жизнью",
+        "imageUrl": "./img/albufeira.jpg",
+        "link": "https://hotelalisios.business.site/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.676822960341948,
+          37.73907408950984
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "R. de Lisboa, 9500-216 Ponta Delgada, Португалия",
+        "name": "Azoris Royal Garden",
+        "description": "",
+        "imageUrl": "./img/ponta-delgada.jpg",
+        "link": "http://www.azorishotels.com/royalgarden/comunicado-covid-19"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1731461551386406,
+          41.40243312841418
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "C. de Mallorca, 401, 08013 Barcelona, Испания",
+        "name": "La Sagrada Família (Храм Святого Семейства)",
+        "description": "Незавершенный храм, строительство которого начал Антонио Гауди в 1880-х годах",
+        "imageUrl": "./img/barcelona-sagrada.jpg",
+        "link": "https://sagradafamilia.org/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1539210867389786,
+          41.41469595024405
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "08024 Barcelona, Барселона, Испания",
+        "name": "Парк Гуэля, Parc Güell",
+        "description": "Парк с музеем Гауди и панорамными видами, архитектурный ансамбль из зданий, лестниц и скульптур",
+        "imageUrl": "./img/barcelona-guel.jpg",
+        "link": "https://parkguell.barcelona/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1639188938905436,
+          41.36900848981373
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Avinguda Miramar, 30, 08038 Barcelona, Испания",
+        "name": "Канатная дорога Монжуик",
+        "description": "Канатная дорога от парка Монтжуик до Монтжуикской крепости. В пути можно полюбоваться панорамой города",
+        "imageUrl": "./img/barcelona-monguic.jpg",
+        "link": "https://www.telefericdemontjuic.cat/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1771861841505555,
+          41.375575967454054
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Plaça Portal de la Pau, s/n, 08001 Barcelona, Испания",
+        "name": "Памятник Колумбу",
+        "description": "колонна 1888 года",
+        "imageUrl": "./img/barcelona-columb.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.831257080882344,
+          41.694165069447266
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "17310, Испания",
+        "name": "Плайя де Фенальс",
+        "description": "пляж Фенальс",
+        "imageUrl": "./img/lloret.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.936159448127609,
+          41.71778577173021
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Passeig de Vila Vella, 1, 17320 Tossa de Mar, Girona, Испания",
+        "name": "Muralles de Tossa de Mar",
+        "description": "Крепость XII века на утесе: крепостные стены, многочисленные башни и внутренний двор.",
+        "imageUrl": "./img/tossa.jpg",
+        "link": "http://www.infotossa.com/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1858622960575698,
+          41.38845074064524
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Passeig de Picasso, 21, 08003 Barcelona, Испания",
+        "name": "Парк Сьютаделья",
+        "description": "Парк был открыт в середине XIX века и в течение нескольких десятилетий оставался единственной зелёной зоной в городе. На территории парка Цитадели сегодня располагаются несколько музеев, зоопарк Барселоны, искусственное озеро, а также здание Парламента Каталонии",
+        "imageUrl": "./img/barcelona-citadel.jpg",
+        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BA_%D0%A1%D1%8C%D1%8E%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%8F"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.17437487504257,
+          22.29307615748884
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "3號 Hoi Bun Rd, Tsim Sha Tsui, Гонконг",
+        "name": "Аллея звёзд",
+        "description": "",
+        "imageUrl": "./img/hongkong.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14244205767537,
+          22.276915436554326
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "The Peak, Гонконг",
+        "name": "Пик Виктория (太平山)",
+        "description": "Гора высотой 552 м на острове Гонконг, известная видами на горизонт и побережье",
+        "imageUrl": "./img/hongkong-victoria.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15968154115588,
+          22.28482575287941
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "金融街8號 國際金融中心商場L1/Shop1100-03,L2/Shop2091-95,L3/Shop3093-97, Гонконг",
+        "name": "Apple ifc mall",
+        "description": "",
+        "imageUrl": "./img/hongkong-apple.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.17241300373512,
+          22.29647492472531
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Гонконг, Tsim Sha Tsui, Nathan Rd, 36-44號, Chungking Mansion, c5",
+        "name": "Chungking Mansions",
+        "description": "",
+        "imageUrl": "./img/hongkong-chung.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85886074240173,
+          1.2890620009038902
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "10 Bayfront Ave, Singapore 018956",
+        "name": "Marina Bay Sands",
+        "description": "",
+        "imageUrl": "./img/singapore-marinabay.jpg",
+        "link": "https://www.marinabaysands.com/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85452513975665,
+          1.2868015381950981
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Singapore",
+        "name": "Merlion",
+        "description": "Знаменитая статуя высотой 8,5 м в виде существа с телом рыбы и головой льва, из рта которого бьет фонтан",
+        "imageUrl": "./img/singapore-merlion.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86330011452897,
+          1.2818857178649519
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "18 Marina Gardens Dr, Сингапур 018953",
+        "name": "Гарденс бай Бэй",
+        "description": "Парк с оранжереями и прибрежными зонами, а также древовидными конструкциями, использующими солнечную энергию",
+        "imageUrl": "./img/singapore-gardens.jpg",
+        "link": "https://www.gardensbythebay.com.sg/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.71237162378286,
+          3.1581741487149517
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Concourse Level, Petronas Twin Tower, Lower Ground, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Малайзия",
+        "name": "Башни Петронас",
+        "description": "Две 88-этажные башни в исламском стиле, соединенные мостом",
+        "imageUrl": "./img/kualalumpur-petronas.jpg",
+        "link": "https://www.petronastwintowers.com.my/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.73515401736869,
+          3.1762640592046427
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "name": "Kampung Warisan",
+        "description": "",
+        "imageUrl": "./img/kuala-lumpur-kampung-warisan.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.72268685926235,
+          5.918271386499169
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Pulau Perhentian Kecil, Besut, Terengganu, Малайзия",
+        "name": "Лонг Бич, Перхентиянские о-ва",
+        "description": "",
+        "imageUrl": "./img/perhentian-longbeach.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.71717768565422,
+          5.913494367819203
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Pulau Perhentian Kecil, Besut, Terengganu, Малайзия",
+        "name": "Coral Bay, Перхентиянские о-ва",
+        "description": "",
+        "imageUrl": "./img/perhentian-coralbeach.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69953388149409,
+          10.77997520335312
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "01 Công xã Paris, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Вьетнам",
+        "name": "Собор Сайгонской Богоматери",
+        "description": "Католический собор 1880 года с отделкой французским кирпичом и 58-метровыми колокольнями в романском стиле",
+        "imageUrl": "./img/saigon.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70477286977456,
+          10.771943579680814
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "2 Hải Triều, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Вьетнам",
+        "name": "Bitexco Financial Tower",
+        "description": "Небоскреб с 68 этажами, в котором расположены смотровая площадка, магазины, рестораны и кинотеатр.",
+        "imageUrl": "./img/saigon-bitexco.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.21193895424162,
+          10.952115619960955
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "121 Nguyễn Đình Chiểu, khu phố 2, Hàm Thuận Bắc, Bình Thuận, Вьетнам",
+        "name": "Green Hill Resort and Spa",
+        "description": "",
+        "imageUrl": "./img/muine-greenhill.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.19782876361883,
+          10.943339215863396
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "name": "Пляж Муйне",
+        "description": "",
+        "imageUrl": "./img/muine-beach.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.44941142383361,
+          11.978294786615283
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "3-5-7 Đường Mai Anh Đào, Phường 8, Thành phố Đà Lạt, Lâm Đồng 670000, Вьетнам",
+        "name": "Valley Of Love",
+        "description": "классный парк",
+        "imageUrl": "./img/dalat-valley.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.4311280606194,
+          11.93494722980032
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "03 Đường Huỳnh Thúc Kháng, Phường 4, Thành phố Đà Lạt, Lâm Đồng 66000, Вьетнам",
+        "name": "Сумасшедший Дом",
+        "description": "создала вьетнамская женщина-архитектор, творящая в жанре импрессионизм, по имени Данг Вьет Нга. Его площадь около 1600 кв.м. Строительство началось в 1990 году",
+        "imageUrl": "./img/dalat-crazyhouse.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.23877266801365,
+          12.216591749266659
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "name": "Vinpearl",
+        "description": "",
+        "imageUrl": "./img/nhatrang-vinpearl.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.19565820717757,
+          12.236173503762467
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "57 Hùng Vương, Lộc Thọ, Thành phố Nha Trang, Khánh Hòa 650000, Вьетнам",
+        "name": "Golden Sea Hotel",
+        "description": "",
+        "imageUrl": "./img/nhatrang-goldensea.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.20649271389917,
+          12.272867381503298
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Vĩnh Phước, Thành phố Nha Trang, Khanh Hoa Province 650000, Вьетнам",
+        "name": "Khu danh thắng Hòn Chồng",
+        "description": "",
+        "imageUrl": "./img/nhatrang-1.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.19611007297445,
+          12.265929064808404
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "61 Hai Tháng Tư, Vĩnh Phước, Thành phố Nha Trang, Khánh Hòa 650000, Вьетнам",
+        "name": "Чамские Башни Понагар",
+        "description": "Трехэтажный храм с двумя башнями на холме: исторические выставки, фотографии, спокойная атмосфера",
+        "imageUrl": "./img/nhatrang-ponagar.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.19701881024474,
+          12.242816707153615
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "68 Trần Phú, Thành phố Nha Trang, Khánh Hòa 650000, Вьетнам",
+        "name": "Nha Trang beach",
+        "description": "",
+        "imageUrl": "./img/nhatrang-beach.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.19610022044294,
+          12.246406484599632
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "City, 26-28 Trần Phú, Lộc Thọ, Thành phố Nha Trang, Khánh Hòa 650000, Вьетнам",
+        "name": "Sheraton",
+        "description": "",
+        "imageUrl": "./img/nhatrang-sheraton.jpg",
+        "link": "https://www.marriott.com/hotels/travel/nhasi-sheraton-nha-trang-hotel-and-spa/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.32804516613054,
+          15.887668795760641
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "463 Đ. Hai Bà Trưng, Tân An, Hội An, Quảng Nam, Вьетнам",
+        "name": "KIMAN HOTEL",
+        "description": "",
+        "imageUrl": "./img/hoian-kiman.jpg",
+        "link": "http://www.kimanhoianhotel.com/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.32599877334167,
+          15.877125177807113
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "186 Trần Phú, Phường Minh An, Hội An, Quảng Nam, Вьетнам",
+        "name": "Chùa Cầu",
+        "description": "Знаменитый пешеходный мост из дерева, украшенный изысканной резьбой. Построен в XVIII веке",
+        "imageUrl": "./img/hoian-bridge.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.32299878285083,
+          15.879829825033482
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Trần Hưng Đạo, Phường Cẩm Phổ, Hội An, Quảng Nam, Вьетнам",
+        "name": "Confucius Temple",
+        "description": "",
+        "imageUrl": "./img/hoian-temple.jpg",
+        "link": "http://hoianheritage.net/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.32693206546787,
+          15.87657252913953
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "name": "Hoi An",
+        "description": "",
+        "imageUrl": "./img/hoian-street.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.2240659189505,
+          16.061916694142216
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "name": "Дананг",
+        "description": "",
+        "imageUrl": "./img/danang-bridge.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.98830222514411,
+          15.997858923611872
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Hoà Phú, Hòa Vang, Da Nang, Вьетнам",
+        "name": "Ba Na Hills",
+        "description": "",
+        "imageUrl": "./img/danang-banahills.jpg",
+        "link": "http://www.banahills.com.vn/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.9963553874476,
+          15.994992174262507
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Sun World Ba Na Hills",
+        "name": "Golden Bridge",
+        "description": "мост на вершине холма Ба На, около 200 метров в длину",
+        "imageUrl": "./img/danang-golden-bridge.jpg",
+        "link": "http://www.banahills.com.vn/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85239244010316,
+          21.030708879618544
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 100000, Вьетнам",
+        "name": "Ngoc Son Temple",
+        "description": "Посвященный национальному герою конфуцианский храм в центре озера: мост к храму, башня, павильоны.",
+        "imageUrl": "./img/hanoi-temple.jpg",
+        "link": "https://huongphucan.vn/den-ngoc-son/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85340031747634,
+          21.034340693814496
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Mã Mây, Hàng Buồm, Hoàn Kiếm, Hà Nội 10000, Вьетнам",
+        "name": "Ma May Street",
+        "description": "",
+        "imageUrl": "./img/hanoi-mamay-street.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8400580432442,
+          22.33269845704743
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "name": "Sa Pa",
+        "description": "",
+        "imageUrl": "./img/sapa-1.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84146960727658,
+          22.335296834187773
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "1pho Ngõ Cầu Mây, TT. Sa Pa, Sa Pa, Lào Cai, Вьетнам",
+        "name": "Sa Pa",
+        "description": "Шапа – небольшой город в горах Хоангльеншон на северо-западе Вьетнама, центр горного туризма. Рядом с городом, возвышающимся над рисовыми террасами долины Муонг-Хоа, находится крутая гора Фаншипан высотой 3143 метра, подъем на которую занимает несколько дней. Большую часть населения города составляют горные народы – хмонги, таи и яо.",
+        "imageUrl": "./img/sapa.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8339758290567,
+          22.331022513729827
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Thôn, Cát Cát, Lào Cai, Вьетнам",
+        "name": "Cat Cat Tourism Village",
+        "description": "",
+        "imageUrl": "./img/sapa-catcat.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83371833710345,
+          22.327678012355417
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "8RHM+3FG, Cát Cát, Sa Pa, Lào Cai, Вьетнам",
+        "name": "Cat Cat Waterwheels",
+        "description": "",
+        "imageUrl": "./img/sapa-2.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84232638653494,
+          22.335073679938972
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "TT. Sa Pa, Sa Pa, Lao Cai 333100, Вьетнам",
+        "name": "Notre Dame Cathedral",
+        "description": "",
+        "imageUrl": "./img/sapa-3.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.1247818766701,
+          15.764438290050103
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Đường vào Mỹ Sơn, Thánh địa Mỹ Sơn, Duy Xuyên, Quảng Nam, Вьетнам",
+        "name": "Мишон",
+        "description": "Руины индуистских храмов из красного кирпича с изящной резьбой, построенных между IV и XIV веком",
+        "imageUrl": "./img/myson.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.91667716875847,
+          20.262675347371243
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Вьетнам",
+        "name": "Ниньбинь",
+        "description": "Потрясающие горы, рисовые поля, пещеры и древнейшие храмы",
+        "imageUrl": "./img/ninh-bình.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.72788721788783,
+          22.85195318263248
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "TL 211, Đàm Thuỷ, Trùng Khánh, Cao Bằng, Вьетнам",
+        "name": "Ban Gioc Falls",
+        "description": "Расположенный на границе с Китаем живописный водопад высотой 30 м, который питает река Куайшон",
+        "imageUrl": "./img/ban-gioc.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0514548529425,
+          20.951654268284823
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "name": "Халонг",
+        "description": "Халонг – город на северном побережье Вьетнама, исходный пункт для посещения обширной бухты Халонг",
+        "imageUrl": "./img/halong.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0803575511948,
+          20.85900001007038
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Ha Long",
+        "name": "Ti Top Island",
+        "description": "",
+        "imageUrl": "./img/halong-titoph.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.09553879274831,
+          20.8522867962019
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Ha Long",
+        "name": "Пещера Луон",
+        "description": "Пройдя через вход в пещеру, мы увидим плоское круглое озеро. Это замкнутая группа островов, соединяющаяся с морем через пешерный вход шириной всего 4м, высотой 3м и длиной 100м.",
+        "imageUrl": "./img/halong-luon.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.09223029986728,
+          20.84445262732632
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Ha Long Bay, Halong City, Quảng Ninh",
+        "name": "Sung Sot (Surprise) Cave",
+        "description": "",
+        "imageUrl": "./img/halong-sungsot.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.08278659134106,
+          9.560582837579549
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "63/182, Ko Samui District, Surat Thani 84320, Таиланд",
+        "name": "SAii Bophut",
+        "description": "курортный отель расположен на песчаном пляже среди тропических садов, в 3 км от буддийского храма Ват Плай Лаем и в 4 км от аэропорта Самуи",
+        "imageUrl": "./img/samui.jpg",
+        "link": "http://www.saiiresorts.com/kohsamui/bophut/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1269785736236,
+          -8.653713489770634
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Jl. Pantai Batu Mejan, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Индонезия",
+        "name": "La Brisa",
+        "description": "Один из самых красивых пляжных клубов",
+        "imageUrl": "./img/bali-labrisa.jpg",
+        "link": "http://www.labrisa-bali.com/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2794723485323,
+          -8.504863746694266
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Nyuh Kuning, Jl. Nyuh Bojog, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Индонезия",
+        "name": "Bali Bohemia",
+        "description": "",
+        "imageUrl": "./img/bali-bohemia.jpg",
+        "link": "https://balibohemia.com/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.26222484494588,
+          -8.706701689064793
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "name": "Санур",
+        "description": "Курортный район с пляжами, красочными рыбацкими лодками, галереями, ресторанами и древним храмом",
+        "imageUrl": "./img/bali-sanur.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.15289713228523,
+          -8.847611677280065
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali",
+        "name": "Karma Beach",
+        "description": "Прекрасный пляж",
+        "imageUrl": "./img/bali-karma.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1631662479142,
+          -8.848303698765717
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Jl. Melasti Ungasan, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Индонезия",
+        "name": "Melasti Beach",
+        "description": "",
+        "imageUrl": "./img/bali-melasti.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.14066139133462,
+          -8.846161385047614
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Jl. Belimbing Sari, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali 80364, Индонезия",
+        "name": "OMNIA Dayclub",
+        "description": "",
+        "imageUrl": "./img/bali-omnia.jpg",
+        "link": "http://omniabali.com/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.02433006336612,
+          -8.161163890012906
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Bali, Индонезия",
+        "name": "Pantai Lovina",
+        "description": "Пляж с вулканическим песком и дельфинами",
+        "imageUrl": "./img/bali-lovina.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.45588376834337,
+          -8.454929136001887
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Jl. Raya Sinduwati, Sinduwati, Sidemen, Sindu Wati, Sidemen, Kabupaten Karangasem, Bali 80864, Индонезия",
+        "name": "Pondok Wisata Patal Kikian",
+        "description": "",
+        "imageUrl": "./img/bali-pondok.jpg",
+        "link": "https://www.patalkikianvillas.com/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.50591286835524,
+          -8.343067687127789
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Bali, Индонезия",
+        "name": "Агунг",
+        "description": "Вулкан, который признан высшей точкой Бали",
+        "imageUrl": "./img/bali-agung.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5285533709499,
+          4.188775893221135
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Airport Main Rd, 22000, Мальдивы",
+        "name": "Мале",
+        "description": "столица Мальдивских островов",
+        "imageUrl": "./img/maldives-2.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.36696674923365,
+          4.520552329474314
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Reethi Rah, North Malé Atoll, Malé 08440, Мальдивы",
+        "name": "One & Only",
+        "description": "Курортный отель One & Only на атолле Северный Мале",
+        "imageUrl": "./img/maldives.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.337542491884612,
+          37.415586375760974
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "846 00, Миконос, Греция",
+        "name": "Psarou beach",
+        "description": "прекрасный пляж",
+        "imageUrl": "./img/",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.36900103167803,
+          37.41488845089424
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "846 00, Миконос, Греция",
+        "name": "Super Paradise Beach Club",
+        "description": "прекрасный пляж",
+        "imageUrl": "./img/",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.483149425042917,
+          36.372912818073665
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "name": "Kamari beach, Santorini",
+        "description": "прекрасный пляж с пролетающими самолетами",
+        "imageUrl": "./img/",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.376291305274066,
+          36.462142578385034
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "name": "Ия",
+        "description": "",
+        "imageUrl": "./img/",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.371651893148773,
+          36.45816643977059
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Οία 847 02, Греция",
+        "name": "Ammoudi",
+        "description": "пляж с высокими красными скалами",
+        "imageUrl": "./img/",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51220911773736,
+          37.23869259113595
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Scala Santa Maria del Monte, 11, 95041 Caltagirone CT, Италия",
+        "name": "Staircase of Santa María del Monte",
+        "description": "лестница Санта-Мария-дель-Монте, соединяющая нижнюю и верхнюю части города Кальтаджироне. Она состоит из 142 ступеней, каждая из которых украшена разными узорами художественной майолики",
+        "imageUrl": "./img/italia-caltagirone.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.487573158925295,
+          40.62820081109022
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Vicolo Vito Savino, 4/6/8, 84017 Positano SA, Италия",
+        "name": "Villa La Tartana Positano",
+        "description": "",
+        "imageUrl": "./img/italia-villa-la-tartana.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.602665851311908,
+          40.634339021738455
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "84011 Салерно, Италия",
+        "name": "Амальфи",
+        "description": "город, расположенный под крутыми скалами и окруженный живописными пейзажами",
+        "imageUrl": "./img/italia-amalfi.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.878585070976527,
+          42.76152409943049
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Castiglione della Pescaia, Гроссето, Италия",
+        "name": "Кастильоне-делла-Пеская",
+        "description": "",
+        "imageUrl": "./img/italia-castiglione.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.483336578889283,
+          41.894678470380974
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Piazza Venezia, 00186 Roma RM, Италия",
+        "name": "Рим",
+        "description": "",
+        "imageUrl": "./img/italia-roma.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.256981731302373,
+          43.7730887963357
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Piazza del Duomo, 50122 Firenze FI, Италия",
+        "name": "Cattedrale di Santa Maria del Fiore",
+        "description": "Собор XIII века c колокольней Джотто",
+        "imageUrl": "./img/italia-florence.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911404921865676,
+          52.36674119542938
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Plantage Middenlaan 33, 1018 DB Amsterdam, Нидерланды",
+        "name": "Quentin Zoo hotel",
+        "description": "",
+        "imageUrl": "./img/amsterdam.jpg",
+        "link": "https://quentinhotels.com/hotels/quentin-zoo/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.29508819137082,
+          -5.723860918319349
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "name": "Нангви Бич",
+        "description": "",
+        "imageUrl": "./img/",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.29067580400372,
+          -5.749216901568163
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "name": "Kendwa",
+        "description": "",
+        "imageUrl": "./img/",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.51557947399268,
+          -6.118672339858124
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Pingwe, Michamvi, Танзания",
+        "name": "The Rock Restaurant",
+        "description": "Ресторан морской кухни",
+        "imageUrl": "./img/the-rock-zanzibar-restaurant.jpg",
+        "link": "http://www.therockrestaurantzanzibar.com/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.534134224495105,
+          -6.262092729371206
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Paje, Танзания",
+        "name": "Paje, Танзания",
+        "description": "",
+        "imageUrl": "./img/paje.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5335846640912,
+          -6.299420619823213
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Kuza Cave",
+        "name": "Kuza Cave",
+        "description": "",
+        "imageUrl": "./img/",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46908830884925,
+          -6.434791742037994
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Kizimkazi Mkunguni",
+        "name": "Kizimkazi Mkunguni, Танзания",
+        "description": "",
+        "imageUrl": "./img/",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.233668784794432,
+          -26.005391420255243
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Luderitz, Намибия",
+        "name": "Luderitz, Намибия",
+        "description": "рыбацкий и торговый порт на атлантическом побережье Намибии",
+        "imageUrl": "./img/luderitz.jpg",
+        "link": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.291559577446435,
+          -24.75375841522777
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Deadvlei, Намибия",
+        "name": "Deadvlei, Намибия",
+        "description": "известная долина в пустыне: твердый грунт из белой глины, засохшие многовековые деревья",
+        "imageUrl": "./img/deadvlei.jpg",
+        "link": ""
+      }
+    }
+  ]
+}
