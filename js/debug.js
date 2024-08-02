@@ -1,5 +1,5 @@
-'use strict';
-var colors = {
+const log = console.log.bind(document);
+const colors = {
   gray: 'color: #1B2B34;',
   red: 'color: #EC5f67;',
   orange: 'color: #F99157;',
@@ -11,7 +11,7 @@ var colors = {
   brown: 'color: #AB7967;',
   indigo: 'color: indigo;',
 };
-const log = console.log.bind(document);
+
 [].forEach.call(document.querySelectorAll('*'), function (o) {
   o.style.outline = '1px solid #' + (~~(16777216 * Math.random())).toString(16);
 }),
